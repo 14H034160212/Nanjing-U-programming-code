@@ -1,0 +1,55 @@
+12年：薪酬管理系统
+https://wenku.baidu.com/view/75927934ddccda38366baf00.html
+http://download.csdn.net/download/zm1176174098/4847547
+http://blog.csdn.net/llqaqxf/article/details/79106743
+
+13年：三子棋游戏
+http://blog.csdn.net/luan111111/article/details/11489429
+http://blog.csdn.net/chejinqiang/article/details/44082215
+http://blog.csdn.net/qq_32855219/article/details/53313585
+http://blog.csdn.net/u011925500/article/details/20953223
+http://download.csdn.net/download/yujinxiang_123/755412
+http://download.csdn.net/download/darkmoss/8913005
+http://blog.csdn.net/Cs_ChenSh/article/details/78992803
+http://blog.csdn.net/u011925500/article/details/20953223
+http://download.csdn.net/download/lyh_jnu/2466514
+https://www.cnblogs.com/grandyang/p/5467118.html
+
+14年：课程表管理系统
+（）今年完全没任何框架。就是一个题目，让你实现一个课程表系统，实现课程表的增删改查，显示所有课程并以课程时间排序，另外要求是从文件读入，最后全部要输出到文件中。两小时。
+上机主要是让你写一个小的程序，要求掌握JAVA基础，利用包括设计模式在内的知识，使得你的代码容易扩展，利于维护。主要复习的内容有基本的JAVA语法、面向对象的特性、IO 的一些基本知识，不会涉及SWING和多线程。
+（）要求：要能扩展，比如功能定的是增删改查、以后要加功能怎么扩展，比如信息现在存储在文件，以后要用数据库怎么办，比如现在用控制台输入输出，以后要用界面怎么办。这些都是设计要考虑的东西。
+个人认为：应该把 显示、功能、存储、实体，全都分开。比如增删改查功能继承一个类，以后要添加功能就直接继承这个类而不用另外改原有的代码。
+http://download.csdn.net/download/Ltao5461218/2575985
+http://download.csdn.net/download/zzz389020106/3316194
+http://blog.csdn.net/u010909423/article/details/18353111
+http://www.javaweb.cc/other/code/282095.shtml
+http://download.csdn.net/download/webrsy/2104881
+http://it.freesion.com/3220/4888028/13702658/
+
+15年：罗马数字转十进制数
+http://www.cskaoyan.com/thread-247919-1-2.html
+http://blog.csdn.net/u010002184/article/details/50739778
+http://blog.csdn.net/net_wolf_007/article/details/51770112
+https://www.cnblogs.com/six-moon/p/4614650.html
+https://github.com/14H034160212/Nanjing-U-programming-code/blob/master/Roma.java
+
+16年：矩阵运算
+   开发一个矩阵运算的java开发包，定义一个MyMatrix类
+   实现构造方法，矩阵加法，矩阵乘法，矩阵转置，打印函数
+   public MyMatrix（double[][] a）;
+   public MyMatrix plus(MyMatrix B);
+   public MyMatrix times(MyMatrix B);
+   public MyMatrix transpose();
+   public void print(int w,int d);
+
+   其中 打印矩阵
+      1.起始一个空行，结束一个空行。
+      2.第一个参数是每一列的宽度，第二个参数是保留的小数点位数。 
+http://blog.csdn.net/CodeEmperor/article/details/50768936
+https://wenku.baidu.com/view/94e04e4148d7c1c708a145a9.html
+https://www.cnblogs.com/woyouyihujiu/p/7624606.html
+http://bbs.csdn.net/topics/280087178
+http://download.csdn.net/download/hxp121212/1123076
+
+
